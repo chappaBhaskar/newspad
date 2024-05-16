@@ -29,7 +29,20 @@ function App() {
       paragraph="Sidra Nawaz and the recently retired Bismah Maroof are the only absentees from the squad picked for the West Indies series."/>
 
  
-    </div>
+
+<NewsPad imageLink="https://static.cricbuzz.com/a/img/v1/205x152/i1/c478779/gt-will-be-up-against-the-mara.jpg"
+title="dhoni"
+spanText="PREVIEWS • IPL 2024"
+heading="Playoffs-seeking SRH out to resume trailblazing ways after long break"
+paragraph="Already-eliminated Gujarat Titans will hope to upstage their hosts, who will also have to contend with the pressures of qualification"
+/>
+<NewsPad imageLink="https://static.cricbuzz.com/a/img/v1/205x152/i1/c479970/persistent-rain-in-hyderabad-w.jpg"
+title="SRH"
+spanText="STATS • IPL 2024"
+heading="SRH through to IPL 2024 playoffs after washout-seeking SRH out to resume trailblazing ways after long break"
+paragraph="A win on Saturday would be enough for CSK but Hyderabad and Bengaluru rains have complicated RCB's playoffs chances"
+/>
+</div>
   );
 }
 
